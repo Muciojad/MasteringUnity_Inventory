@@ -3,6 +3,7 @@
 #### UNITY VERSION - 2018.3.6F1
 ## Briefly
 Working inventory system for Unity game.
+
 **Core things mastered: Observer pattern, design class with interfaces, magic of inheritance**
 Main purpose to do it was self-development in C#/Unity and learning game programming patterns.
 It is first of my **Mastering Unity** projects, where I try to develop working game systems as Inventory/crafting etc and "*copy*" some great features from AAA or just well-known games.
@@ -64,4 +65,4 @@ For summarize, I think my current knowledge about Observer pattern is enough to 
 
 Project download: https://drive.google.com/open?id=1zi5TfkJK1Lve9umXXpcVbQ-VEdc5KH2R
 
-Video:
+Video: https://youtu.be/mxCu-fYjBRA
