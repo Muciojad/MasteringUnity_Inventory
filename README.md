@@ -4,6 +4,8 @@
 ## Briefly
 Working inventory system for Unity game.
 
+![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/6.PNG)
+
 **Core things mastered: Observer pattern, design class with interfaces, magic of inheritance**
 Main purpose to do it was self-development in C#/Unity and learning game programming patterns.
 It is first of my **Mastering Unity** projects, where I try to develop working game systems as Inventory/crafting etc and "*copy*" some great features from AAA or just well-known games.
@@ -12,12 +14,16 @@ I aimed for "remake" inventory from RE2, but I end up with my own system, highly
 ### Main features
 
  - Inventory bag for keeping items
+ ![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/1.PNG)
  - Bag upgrade system - player can extend bag size by finding upgrades
+ ![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/5.PNG)
  - Neat UI look - inventory view is clean and clear, items have their own description
  - Collecting items during gameplay - when player enters item's trigger
  - Throwing/using items via inventory UI - player can "use" item in inventory view - Medpack as in-game example. Item can be thrown simply by clicking H key when item is currently active.
  - Marking items as useless - player knows when item is useless and can be thrown
+ ![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/4.PNG)
  - Fast use - item needed to do something else, for example access device which unlocks door, can be used outside UI view - player is informed when and which item can be used simply by pressing F key.
+ ![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/2.PNG)
  - Item stacking
  
  ### Inventory data structure
@@ -66,3 +72,5 @@ For summarize, I think my current knowledge about Observer pattern is enough to 
 Project download: https://drive.google.com/open?id=1zi5TfkJK1Lve9umXXpcVbQ-VEdc5KH2R
 
 Video: https://youtu.be/mxCu-fYjBRA
+
+
