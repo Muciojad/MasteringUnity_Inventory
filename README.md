@@ -1,8 +1,11 @@
 
-# Unity inventory system
+# Unity inventory system (03.2019)
 #### UNITY VERSION - 2018.3.6F1
 ## Briefly
 Working inventory system for Unity game.
+## 2020 update.
+I leave this code as is, as proof of one of my programming improvement stages. Today I know, that solutions used in this training project was poor, especially pure love to singletons. 
+
 
 ![alt text](https://github.com/Muciojad/MasteringUnity_Inventory/blob/master/Screens/6.PNG)
 
